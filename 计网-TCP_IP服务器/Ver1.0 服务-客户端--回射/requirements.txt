@@ -1,0 +1,3 @@
+socket
+cryptodome
+gmpy2

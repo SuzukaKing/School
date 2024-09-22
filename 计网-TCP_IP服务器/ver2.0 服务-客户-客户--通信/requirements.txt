@@ -1,0 +1,4 @@
+socket
+cryptodome
+gmpy2
+threading
